@@ -1,2 +1,2 @@
 # ice-cream-site
-RESPONSIVE SITE
+My simple working with HTML and CSS for Responsive webiste desgin learning!
